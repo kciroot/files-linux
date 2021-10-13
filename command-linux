@@ -1,0 +1,8 @@
+sudo update-alternatives --config java = Ver versiones java y configurar la que estara por default
+
+
+        TAR
+sudo apt-get install xz-utils = Agregas la utileria
+Para descomprimir un archivo tar
+  tar -xvf tsetup.3.1.8.tar.xz
+
